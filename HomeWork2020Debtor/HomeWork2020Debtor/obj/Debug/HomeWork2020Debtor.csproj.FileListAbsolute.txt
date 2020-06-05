@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\HomeWork2020Debtor\HomeWork2020Debtor\bin\Debug\HomeWork2020Debtor.exe.config
+C:\Users\hp\source\repos\HomeWork2020Debtor\HomeWork2020Debtor\bin\Debug\HomeWork2020Debtor.exe
+C:\Users\hp\source\repos\HomeWork2020Debtor\HomeWork2020Debtor\bin\Debug\HomeWork2020Debtor.pdb
+C:\Users\hp\source\repos\HomeWork2020Debtor\HomeWork2020Debtor\obj\Debug\HomeWork2020Debtor.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\HomeWork2020Debtor\HomeWork2020Debtor\obj\Debug\HomeWork2020Debtor.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\HomeWork2020Debtor\HomeWork2020Debtor\obj\Debug\HomeWork2020Debtor.exe
+C:\Users\hp\source\repos\HomeWork2020Debtor\HomeWork2020Debtor\obj\Debug\HomeWork2020Debtor.pdb
